@@ -58,3 +58,4 @@ build/config\.gypi.c9/
 !.vscode/extensions.json
 
 .env
+docker.env

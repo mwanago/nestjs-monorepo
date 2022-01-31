@@ -1,5 +1,5 @@
 {
-  "name": "emails-subscriptions",
+  "name": "@nestjs-monorepo/emails-subscriptions",
   "version": "0.0.1",
   "private": true,
   "scripts": {
